@@ -9,11 +9,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 [![ProfileViews](https://komarev.com/ghpvc/?username=kivvvv&color=red&style=flat)](https://komarev.com/ghpvc/?username=kivvvv)
 
 
-<img align="centre" alt="GIF" src="media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?raw=true" width="500" height="320" />
-
 <br />
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kivvvv&count_private=true&show_icons=true"/>

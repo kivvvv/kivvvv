@@ -17,7 +17,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kivvvv&count_private=true&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kivvvv&langs_count=8&count_private=true&show_icon=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=468" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kivvvv&langs_count=8&count_private=true&show_icon=true&layout=compact&hide=javascript,html,css,CoffeeScript&card_width=350" />
 </a>
 
 

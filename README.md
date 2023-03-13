@@ -27,11 +27,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="center">
-  <a href="ziweiwang@whu.edu.cn">
-    <img align="center" src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
-  </a>
-</p>
+
 
 <samp>
     <p align="center">

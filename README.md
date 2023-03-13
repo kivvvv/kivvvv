@@ -9,7 +9,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 [![ProfileViews](https://komarev.com/ghpvc/?username=kivvvv&color=red&style=flat)](https://komarev.com/ghpvc/?username=kivvvv)
 
 
-<img align="right" alt="GIF" src="media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?raw=true" width="500" height="320" />
+<img align="centre" alt="GIF" src="media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?raw=true" width="500" height="320" />
 
 <br />
 
